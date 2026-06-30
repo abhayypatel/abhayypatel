@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎯 I’m currently working on<br>SmartEats, a calorie tracking app that uses AI to analyze images of food to estimate calorie counts and nutritional information<br><br>🤝 I’m looking to collaborate on<br>Any AI projects or research <br><br>🌱 I’m currently learning<br>Different machine learning techniques<br><br>💬 Ask me about<br>Anything DJing related or my opinion on different pizza spots in NJ/NYC<br>
+🎯 I’m currently working on<br>RU Eats - A peer-to-peer marketplace where Rutgers students with unused meal swipes earn cash by getting food for upperclassmen who don't have a meal plan.<br><br>🤝 I’m looking to collaborate on<br>Any AI projects or research <br><br>🌱 I’m currently learning<br>Different machine learning techniques<br><br>💬 Ask me about<br>Anything DJing related or my opinion on different pizza spots in NJ/NYC<br>
 
 
 ## 🌐 Socials:
